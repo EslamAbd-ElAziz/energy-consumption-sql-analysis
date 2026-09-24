@@ -1,5 +1,5 @@
 # Energy-Cconsumption-SQL-Analysis
-PostgreSQL analysis of building energy consumption and cost (CTEs, window functions, views)
+PostgreSQL analysis of building energy consumption and cost (CTEs, window functions, views)---
 Analysis of energy consumption (water, electricity, gas) and cost for 11 buildings
 in 5 cities, from 2016 to 2019, using PostgreSQL.
 

@@ -20,8 +20,9 @@ PostgreSQL, SQL (CTEs, subqueries, window functions, views), Python (pandas, SQL
 - Total cost grows every year (+18.9%, +12.8%, +10.9%), but the growth is slowing.
 
 ## Screenshots
-![Unpivot view](screenshots/02_unpivot_view.png)
-![Monthly summary](screenshots/05_monthly_energy_summary.png)
+![Unpivot view](Energy-Consumption-SQL-Analysis/02_unpivot_view.PNG)
+![Monthly summary](Analysis/05_monthly_energy_summary.PNG)
+![Dataset_Calendar](Energy-Consumption-SQL-Analysis/06_dataset_calendar.PNG)
 
 ## Files
 - `sql/energy_analysis.sql`: all queries with comments

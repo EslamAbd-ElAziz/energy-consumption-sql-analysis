@@ -21,7 +21,7 @@ PostgreSQL, SQL (CTEs, subqueries, window functions, views), Python (pandas, SQL
 
 ## Screenshots
 ![Unpivot view](Energy-Consumption-SQL-Analysis/02_unpivot_view.PNG)
-![Monthly summary](Analysis/05_monthly_energy_summary.PNG)
+![Monthly summary](Energy-Consumption-SQL-Analysis/05_monthly_energy_summary.PNG)
 ![Dataset_Calendar](Energy-Consumption-SQL-Analysis/06_dataset_calendar.PNG)
 
 ## Files

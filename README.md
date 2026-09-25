@@ -24,9 +24,5 @@ PostgreSQL, SQL (CTEs, subqueries, window functions, views), Python (pandas, SQL
 ![Monthly summary](Energy-Consumption-SQL-Analysis/05_monthly_energy_summary.PNG)
 ![Dataset_Calendar](Energy-Consumption-SQL-Analysis/06_dataset_calendar.PNG)
 
-## Files
-- `sql/energy_analysis.sql`: all queries with comments
-- `python/load_data.py`: loads the data into PostgreSQL (set `DATABASE_URL` first)
-
 ## Dataset
 Energy_Consumptions_Dataset.xlsx (course dataset, 3 sheets)
